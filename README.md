@@ -1,5 +1,5 @@
 # Spotify gesture control
-Gesture control logic for an app I will be making in the future: Gesturefy
+Gesture control logic for an app I will be making in the future: Gesturefy.
 Gesturefy will allow users to control Spotify with hand gestures, without needing to touch a mouse or keyboard. 
 
 For this project:
